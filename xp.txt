@@ -1,0 +1,38 @@
+https://api.xpi.com.br/variable-income/quote/CSNA3
+
+headers
+Ocp-Apim-Subscription-Key = d1b9ee5fcf40434ab51854beecb75c6f
+Content-Type = application/json
+Referer = https://analises.xpi.com.br/fundamentalista/empresas/
+Origin = https://analises.xpi.com.br
+
+Response
+{
+    "ativo": "CSNA3",
+    "ultimoPreco": "13,95",
+    "quantidade": "100",
+    "oscilacao": "-5,36",
+    "tendencia": "=",
+    "hora": "13:38:06",
+    "qtdOfertaCompra": "21900",
+    "vlOfertaCompra": "13,95",
+    "qtdOfertaVenda": "7000",
+    "vlOfertaVenda": "13,96",
+    "qtdNegociada": "12442000",
+    "volumeNegocios": "175423157",
+    "negocios": "16428",
+    "statusPapel": "S",
+    "precoTeoricoAbertura": "",
+    "qtdTeoricaAberrtura": "",
+    "dtCotacao": "08/03/2019",
+    "fechamentoAnterior": "14,74",
+    "precoAbertura": "14,54",
+    "precoMinimo": "13,90",
+    "precoMedio": "14,10",
+    "precoMaximo": "14,60",
+    "dtFechamento": "07/03/2019",
+    "vlFechamento": "",
+    "descAtivo": "SID NACIONALON",
+    "aSW": "ASWQUT#5###1#CSNA3#13,95#100#-5,36#=#13:38:06#21900#13,95#7000#13,96#12442000#175423157#16428#S###08/03/2019#14,74#14,54#13,90#14,10#14,60#07/03/2019##SID NACIONALON##31/12/9999####",
+    "pUB": "PUBQUT#5###1#CSNA3#13,95#100#-5,36#=#13:38:06#21900#13,95#7000#13,96#12442000#175423157#16428#S###08/03/2019#14,74#14,54#13,90#14,10#14,60#07/03/2019##SID NACIONALON##31/12/9999####"
+}
